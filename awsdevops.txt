@@ -3,6 +3,4 @@ Here we can learn real time work
 
 line1
 
-line2
-
 line3
